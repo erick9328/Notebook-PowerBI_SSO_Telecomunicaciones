@@ -85,9 +85,7 @@ Edición avanzada en Power BI Service
 
     Conéctate con tu cuenta Power BI cuando lo solicite (autenticación Microsoft).
 
-    
 
-🏷️ Recursos útiles y enlaces oficiales
 ## 🔗 Enlaces oficiales y recursos
 
 - [Blog oficial: Create Power BI reports in Jupyter notebooks (Microsoft)](https://powerbi.microsoft.com/en-us/blog/create-power-bi-reports-in-jupyter-notebooks/)
