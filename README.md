@@ -68,7 +68,7 @@ Visualización embebida y exploración dinámica
 <img width="691" alt="9" src="https://github.com/user-attachments/assets/cacda7ce-b249-4a30-aa1a-55c1f89795ce" />
 
 
-3. Edición avanzada en Power BI Service
+Edición avanzada en Power BI Service
 
 <img width="683" alt="10" src="https://github.com/user-attachments/assets/9ad393d2-2ad9-4d9c-a5bf-3f67c592f846" />
 
@@ -85,7 +85,7 @@ Visualización embebida y exploración dinámica
 
     Conéctate con tu cuenta Power BI cuando lo solicite (autenticación Microsoft).
 
-    Disfruta de tu dashboard interactivo directamente en el notebook.
+    
 
 🏷️ Recursos útiles y enlaces oficiales
 ## 🔗 Enlaces oficiales y recursos
